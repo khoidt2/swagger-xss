@@ -1,8 +1,8 @@
 {
-    "url": "https://jumpy-floor.surge.sh/test.yaml",
+    "url": "https://raw.githubusercontent.com/khoidt2/swagger-xss/main/keylogger.xml",
     "urls": [
         {
-            "url": "https://jumpy-floor.surge.sh/test.yaml",
+            "url": "https://raw.githubusercontent.com/khoidt2/swagger-xss/main/keylogger.xml",
             "name": "Foo"
         }
     ]
