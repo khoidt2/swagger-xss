@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/khoidt2/swagger-xss/main/keylogger.xml",
+    "url": "https://raw.githubusercontent.com/khoidt2/swagger-xss/main/editPage.xml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/khoidt2/swagger-xss/main/keylogger.xml",
+            "url": "https://raw.githubusercontent.com/khoidt2/swagger-xss/main/editPage.xml",
             "name": "Foo"
         }
     ]
